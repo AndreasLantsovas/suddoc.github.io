@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suddoc.github.io/static/css/main.52654c73.chunk.css",
+    "main.js": "/suddoc.github.io/static/js/main.9eb8b88a.chunk.js",
+    "main.js.map": "/suddoc.github.io/static/js/main.9eb8b88a.chunk.js.map",
+    "runtime-main.js": "/suddoc.github.io/static/js/runtime-main.14c0c730.js",
+    "runtime-main.js.map": "/suddoc.github.io/static/js/runtime-main.14c0c730.js.map",
+    "static/js/2.913dfafd.chunk.js": "/suddoc.github.io/static/js/2.913dfafd.chunk.js",
+    "static/js/2.913dfafd.chunk.js.map": "/suddoc.github.io/static/js/2.913dfafd.chunk.js.map",
+    "index.html": "/suddoc.github.io/index.html",
+    "precache-manifest.8a8c47da69c0441b68c8d4ec6a5462b3.js": "/suddoc.github.io/precache-manifest.8a8c47da69c0441b68c8d4ec6a5462b3.js",
+    "service-worker.js": "/suddoc.github.io/service-worker.js",
+    "static/css/main.52654c73.chunk.css.map": "/suddoc.github.io/static/css/main.52654c73.chunk.css.map",
+    "static/js/2.913dfafd.chunk.js.LICENSE.txt": "/suddoc.github.io/static/js/2.913dfafd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14c0c730.js",
+    "static/js/2.913dfafd.chunk.js",
+    "static/css/main.52654c73.chunk.css",
+    "static/js/main.9eb8b88a.chunk.js"
+  ]
+}
